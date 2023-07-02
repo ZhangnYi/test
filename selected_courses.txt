@@ -1,0 +1,3 @@
+
+stu1,xiaoming,abc,0
+stu1,xiaoming,可爱神！！！！,3
